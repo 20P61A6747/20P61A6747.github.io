@@ -1,0 +1,43 @@
+<!Doctype Html>  
+<Html>     
+<Head>   
+<style>
+     h1{padding: 270px 0;
+        text-align:center;color:white;font-size:60px;
+        width: 800px;
+        border: 18px black;
+        padding: 50px;
+        margin: 20px; 
+         background-color:rosybrown;
+       }
+      .chinnu{background-color: lightgrey;
+            width: 800px;
+            border: 15px black;
+            padding: 50px;
+            margin: 20px;
+            background:gainsboro;
+          }
+</style>   
+<Title>     
+carrier guidelines 
+</Title>  
+</Head>  
+<h1><b>CARRIER GUIDELINES</b></h1>
+     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.studyinjapan.go.jp%2Fen%2F&psig=AOvVaw27POUr6e1n6rEQzp30apAH&ust=1624449932357000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKiUsdyZq_ECFQAAAAAdAAAAABAD" alt="Girl in a jacket" width="500" height="600">
+<Body background="https://images.app.goo.gl/sFSTifU5wPMoPuSk7.jpg">   
+ 
+     <div class="chinnu">
+      <p text-align="center"><i><b>INFORMATION:-</b><br> Throughout their professional lives, people 
+                                                         encounter many situations where they could benefit 
+                                                         from unbiased advice. They may be in the process of choosing 
+                                                         a stream or a career, deciding whether or not they 
+                                                         should change careers or jobs, re-entering the workforce, 
+                                                         or maybe wanting to learn more about career guidance in
+                                                         general - a complete knowledge always helps. A good foundation
+                                                         begins with the basics. They come to the realization that it’s an 
+                                                         overwhelming process, and they need to learn all about the what, how,
+                                                         and why of the career guidance process.  </p>
+     </div>
+   <h2>MPC<h2>
+ </body>
+ </Html>
